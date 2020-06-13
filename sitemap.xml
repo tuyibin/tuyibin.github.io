@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tuyibin.gitee.io/contact/index.html</loc>
+    
+    <lastmod>2020-06-13T10:33:41.870Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tuyibin.gitee.io/AV/index.html</loc>
     
     <lastmod>2020-06-13T10:17:18.006Z</lastmod>
@@ -86,14 +93,7 @@
   </url>
   
   <url>
-    <loc>https://tuyibin.gitee.io/contact/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/galleries/index.html</loc>
+    <loc>https://tuyibin.gitee.io/tags/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://tuyibin.gitee.io/tags/index.html</loc>
+    <loc>https://tuyibin.gitee.io/galleries/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
