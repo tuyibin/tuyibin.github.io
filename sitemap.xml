@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tuyibin.gitee.io/AV/index.html</loc>
+    
+    <lastmod>2020-06-13T10:17:18.006Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tuyibin.gitee.io/2019/12/17/ge-ren-zhuang-ji-bi-bei-ruan-jian/</loc>
     
     <lastmod>2020-06-13T10:05:53.691Z</lastmod>
@@ -58,42 +65,7 @@
   </url>
   
   <url>
-    <loc>https://tuyibin.gitee.io/AV/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/contact/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/friends/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/galleries/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/tags/index.html</loc>
-    
-    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tuyibin.gitee.io/archives/index.html</loc>
+    <loc>https://tuyibin.gitee.io/about/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
@@ -107,14 +79,35 @@
   </url>
   
   <url>
-    <loc>https://tuyibin.gitee.io/about/index.html</loc>
+    <loc>https://tuyibin.gitee.io/contact/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://tuyibin.gitee.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
+    <loc>https://tuyibin.gitee.io/archives/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tuyibin.gitee.io/friends/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tuyibin.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tuyibin.gitee.io/galleries/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
@@ -122,6 +115,13 @@
   
   <url>
     <loc>https://tuyibin.gitee.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%874/index.html</loc>
+    
+    <lastmod>2019-10-03T12:57:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tuyibin.gitee.io/galleries/%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%873/index.html</loc>
     
     <lastmod>2019-10-03T12:57:54.000Z</lastmod>
     
