@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2020/06/13/test/"/>
-      <url>/2020/06/13/test/</url>
-      
-        <content type="html"><![CDATA[<p><a href="https://tuyibin.gitee.io/medias/file/test/绿化&amp;卸载.zip">测试下载地址</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>个人装机必备软件</title>
       <link href="/2019/12/17/ge-ren-zhuang-ji-bi-bei-ruan-jian/"/>
       <url>/2019/12/17/ge-ren-zhuang-ji-bi-bei-ruan-jian/</url>
